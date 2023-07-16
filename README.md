@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Maylis
 
-#### Junior Software Developer
+#### Apprentice Software Developer
 I enjoy learning languages and all sort of things.
 Here you can find some of my projets.
 
